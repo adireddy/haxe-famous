@@ -11,11 +11,15 @@ module.exports = function (grunt) {
 
         zip: {
             "famous.zip": ["famous/**", "haxelib.json"]
+        },
+
+        exec: {
+            copy: "cp -R samples/_output/** ../adireddy.github.io/demos/haxe-famous/"
         }
     });
 
     grunt.loadNpmTasks("grunt-haxe");
     grunt.loadNpmTasks("grunt-zip");
     grunt.loadNpmTasks("grunt-exec");
-    grunt.registerTask("default", ["haxe", "zip"]);
+    grunt.registerTask("default", ["haxe", "zip", "exec"]);
 };
