@@ -16,6 +16,8 @@ Externs of famo.us for Haxe - Create smooth, complex UIs for any screen. Include
 * [Animation](http://adireddy.github.io/demos/haxe-famous/animation.html)
 * [Positioning](http://adireddy.github.io/demos/haxe-famous/positioning.html)
 
+Look at the `samples` folder for the source code of above examples.
+
 ### Licensing information ###
 
 <a rel="license" href="http://opensource.org/licenses/MIT">
@@ -23,6 +25,6 @@ Externs of famo.us for Haxe - Create smooth, complex UIs for any screen. Include
 
 This content is released under the [MIT](http://opensource.org/licenses/MIT) License.
 
-Famo.us' client-side development package is licensed under the [Mozilla public license version 2.0](http://www.mozilla.org/MPL/2.0/).
+[Famo.us](http://famo.us) client-side development package is licensed under the [Mozilla public license version 2.0](http://www.mozilla.org/MPL/2.0/).
 
 Contact [license@famo.us](mailto:license@famo.us) for further inquiries.
