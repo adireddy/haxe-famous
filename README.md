@@ -18,6 +18,10 @@ Externs of famo.us for Haxe - Create smooth, complex UIs for any screen. Include
 
 Look at the `samples` folder for the source code of above examples.
 
+### Issues ###
+
+Found any bug? Please create a new [issue](https://github.com/adireddy/haxe-famous/issues/new).
+
 ### Usage ###
 
 ```haxe
