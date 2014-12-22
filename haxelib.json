@@ -1,0 +1,13 @@
+{
+  "name": "famous",
+  "license": "MIT",
+  "tags": ["js","haxe","famous","extern","web"],
+  "description": "Externs of famo.us for Haxe",
+  "contributors": ["adireddy"],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "url": "https://github.com/adireddy/haxe-famous",
+  "dependencies": {
+
+  }
+}

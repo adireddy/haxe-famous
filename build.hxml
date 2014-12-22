@@ -1,0 +1,29 @@
+-cp samples
+-cp src
+-main samples.helloworld.Main
+-js samples/_output/helloworld.js
+-dce full
+
+--next
+-cp samples
+-cp src
+-main samples.positioning.Main
+-js samples/_output/positioning.js
+-dce full
+
+--next
+-cp samples
+-cp src
+-main samples.animation.Main
+-js samples/_output/animation.js
+-dce full
+
+--next
+-cp samples
+-cp src
+-main samples.famous.Main
+-js samples/_output/famous.js
+-dce full
+
+#-D source-map-content
+#-debug
