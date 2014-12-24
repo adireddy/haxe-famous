@@ -25,5 +25,12 @@
 -js samples/_output/famous.js
 -dce full
 
+--next
+-cp samples
+-cp src
+-main samples.headerfooterlayout.Main
+-js samples/_output/headerfooterlayout.js
+-dce full
+
 #-D source-map-content
 #-debug

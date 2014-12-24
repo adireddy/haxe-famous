@@ -169,6 +169,7 @@ typedef SurfaceProperties = {
 	@:optional var borderRadius:String;
 	@:optional var marginTop:String;
 	@:optional var marginLeft:String;
+	@:optional var lineHeight:String;
 }
 
 typedef SurfaceAttributes = {
